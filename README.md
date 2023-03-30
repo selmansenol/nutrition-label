@@ -1,4 +1,4 @@
-<h2>Registration Form</h2>
+<h2>Nutrition Label</h2>
 
 <img src="images/nutritionLabel.png">
 <hr>
